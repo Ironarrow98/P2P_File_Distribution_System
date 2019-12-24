@@ -2,8 +2,6 @@ CS 456 A3: Peer-to-peer File Sharing System
 
 Name:
 Chenxi Zhang
-c462zhan
-20671033
 
 Introduction:
 This application is a P2P file sharing system with a centralized tracker.

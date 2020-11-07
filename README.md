@@ -1,4 +1,4 @@
-CS 456 A3: Peer-to-peer File Sharing System
+Peer-to-peer File Sharing System
 
 Name:
 Chenxi Zhang
